@@ -28,7 +28,7 @@ Voici un bref aperçu des technologies utilisées dans la suite du projet. Ce n'
     3) Configuration réseau
 2) Installation de Home Assistant
     1) Installation logicielle en conteneur
-    2) Configuration d'HA
+    2) Configuration d'Home Assistant
     3) Évolutivité
 3) Installation des capteurs/actionneurs
     1) Mise en place d'un DHT22 sur ESP8266
