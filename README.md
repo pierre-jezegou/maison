@@ -46,4 +46,10 @@ Voici un bref aperçu des technologies utilisées dans la suite du projet. Ce n'
 
 
 
+Installation Proxmox sur le serveur
+Puis :
+- Monitoring Prometheus & Grafana
+- DNS (bind9)
+- Serveur de conteneurisation (Docker)
+
 
