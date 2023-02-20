@@ -49,7 +49,7 @@ Voici un bref aperçu des technologies utilisées dans la suite du projet. Ce n'
 Installation Proxmox sur le serveur
 Puis :
 - Monitoring Prometheus & Grafana
-- DNS (bind9)
+- DNS (bind9) : tutoriel https://serverspace.io/support/help/bind9-as-a-secondary-dns-server-on-ubuntu
 - Serveur de conteneurisation (Docker)
 
 
